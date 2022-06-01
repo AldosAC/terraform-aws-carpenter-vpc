@@ -1,0 +1,5 @@
+*.plan
+*.tfstate*
+*.hcl
+.terraform
+.DS_Store
